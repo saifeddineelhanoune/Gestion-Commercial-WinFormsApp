@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\projects C#\GESTION COMMERCIAL\GESTION COMMERCIAL\bin\Debug\GESTION COMMERCIAL.exe.config
+C:\Users\Lenovo\Desktop\projects C#\GESTION COMMERCIAL\GESTION COMMERCIAL\bin\Debug\GESTION COMMERCIAL.exe
+C:\Users\Lenovo\Desktop\projects C#\GESTION COMMERCIAL\GESTION COMMERCIAL\bin\Debug\GESTION COMMERCIAL.pdb
+C:\Users\Lenovo\Desktop\projects C#\GESTION COMMERCIAL\GESTION COMMERCIAL\obj\Debug\GESTION COMMERCIAL.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\projects C#\GESTION COMMERCIAL\GESTION COMMERCIAL\obj\Debug\GESTION_COMMERCIAL.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\projects C#\GESTION COMMERCIAL\GESTION COMMERCIAL\obj\Debug\GESTION COMMERCIAL.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\projects C#\GESTION COMMERCIAL\GESTION COMMERCIAL\obj\Debug\GESTION COMMERCIAL.exe
+C:\Users\Lenovo\Desktop\projects C#\GESTION COMMERCIAL\GESTION COMMERCIAL\obj\Debug\GESTION COMMERCIAL.pdb
+C:\Users\Lenovo\Desktop\projects C#\GESTION COMMERCIAL\GESTION COMMERCIAL\obj\Debug\GESTION_COMMERCIAL.frmSaisieClient.resources
+C:\Users\Lenovo\Desktop\projects C#\GESTION COMMERCIAL\GESTION COMMERCIAL\obj\Debug\GESTION_COMMERCIAL.Gestion_Commercial.resources
+C:\Users\Lenovo\Desktop\projects C#\GESTION COMMERCIAL\GESTION COMMERCIAL\obj\Debug\GESTION_COMMERCIAL.MDIParent1.resources
+C:\Users\Lenovo\Desktop\projects C#\GESTION COMMERCIAL\GESTION COMMERCIAL\obj\Debug\GESTION_COMMERCIAL.frmRechercheClients.resources
+C:\Users\Lenovo\Desktop\projects C#\GESTION COMMERCIAL\GESTION COMMERCIAL\obj\Debug\GESTION_COMMERCIAL.frmSaisie_Fournisseur.resources
+C:\Users\Lenovo\Desktop\projects C#\GESTION COMMERCIAL\GESTION COMMERCIAL\obj\Debug\GESTION_COMMERCIAL.frmRechercheFournisseur.resources
+C:\Users\Lenovo\Desktop\PROGRAMING\Projects C# VS2015\GESTION COMMERCIAL\GESTION COMMERCIAL\bin\Debug\GESTION COMMERCIAL.exe.config
+C:\Users\Lenovo\Desktop\PROGRAMING\Projects C# VS2015\GESTION COMMERCIAL\GESTION COMMERCIAL\obj\Debug\GESTION COMMERCIAL.exe
+C:\Users\Lenovo\Desktop\PROGRAMING\Projects C# VS2015\GESTION COMMERCIAL\GESTION COMMERCIAL\obj\Debug\GESTION COMMERCIAL.pdb
